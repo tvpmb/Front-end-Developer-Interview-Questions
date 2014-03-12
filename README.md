@@ -1,4 +1,4 @@
-## General Questions:
+## General:
 
 * What version control systems have you used? 
 * What is your preferred development environment? (OS, Editor, Browsers, Tools etc.) 
@@ -11,14 +11,14 @@
 * Name 3 ways to decrease page load. (perceived or actual load time) 
 * Explain the importance of standards.  
 
-## HTML-Specific Questions:
+## HTML:
 
 * What's a `doctype` do, and how many can you name? 
 * How do you serve a page with content in multiple languages? 
 * What are `data-` attributes good for? 
 * Describe the difference between cookies, sessionStorage and localStorage.  
 
-## JS-Specific Questions
+## Javascript
 
 * Which JavaScript libraries have you used? 
 * How is JavaScript different from Java? 
@@ -50,7 +50,7 @@ function Person(){} var person = Person() var person = new Person()
 * Explain event delegation. 
 * Describe inheritance patterns in JavaScript. 
 
-## JS-Code Examples:
+## Javascript Code:
 
 ```javascript
 >~~3.14
@@ -74,7 +74,7 @@ var foo = "Hello"; (function() { var bar = " World"; alert(foo + bar); })(); ale
 Question: What is the outcome of the two alerts above? 
 
 
-## jQuery-Specific Questions:
+## jQuery:
 
 * Explain "chaining". 
 * What does `.end()` do? 
@@ -85,7 +85,7 @@ Question: What is the outcome of the two alerts above?
 $(".foo div#bar:eq(0)")
 ```
 
-## CSS-Specific Questions:
+## CSS:
 
 * Describe what a "reset" CSS file does and how it's useful. 
 * Describe Floats and how they work. 
@@ -101,7 +101,7 @@ $(".foo div#bar:eq(0)")
 * How would you implement a web design comp that uses non-standard fonts?
 * Explain how a browser determines what elements match a CSS selector?  
 
-## Optional fun Questions:
+## Other:
 
 * What's the coolest thing you've ever coded, what are you most proud of? 
 * Do you have any pet projects? What kind? 
